@@ -5,5 +5,5 @@
 
 ---
 
-- [Conta terminal](conta-banco/main.md)
-- [Desafio Controle de Fluxo](DesafioControleFluxo/main.md)
+- [Conta terminal](conta-banco/)
+- [Desafio Controle de Fluxo](DesafioControleFluxo/)
