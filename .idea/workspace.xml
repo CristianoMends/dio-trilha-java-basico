@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e99ed84-b955-4362-89f2-16e662c54672" name="Changes" comment="" />
+    <list default="true" id="6e99ed84-b955-4362-89f2-16e662c54672" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/trilha-java-basico.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulacao-bancaria/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulacao-bancaria/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulacao-bancaria/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulacao-bancaria/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulacao-bancaria/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulacao-bancaria/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulacao-bancaria/simulacao-bancaria.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulacao-bancaria/src/BancoException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulacao-bancaria/src/SimulacaoBancaria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificacao-cheque-especial/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificacao-cheque-especial/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificacao-cheque-especial/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificacao-cheque-especial/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-elegibilidade-conta/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-elegibilidade-conta/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-elegibilidade-conta/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-elegibilidade-conta/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-elegibilidade-conta/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-elegibilidade-conta/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-elegibilidade-conta/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-elegibilidade-conta/src/VerificadorElegibilidadeConta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-elegibilidade-conta/verificador-elegibilidade-conta.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-numero-conta/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-numero-conta/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-numero-conta/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-numero-conta/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-numero-conta/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-numero-conta/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-numero-conta/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-numero-conta/src/VerificadorNumeroConta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/verificador-numero-conta/verificador-numero-conta.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,9 +65,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Cristiano/Documents/projetos/dio-trilha-java-basico",
+    "last_opened_file_path": "C:/Users/Cristiano/Documents/projetos/trilha-java-basico",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>

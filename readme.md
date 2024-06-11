@@ -7,7 +7,4 @@
 
 - [Conta terminal](conta-banco/)
 - [Desafio Controle de Fluxo](DesafioControleFluxo/)
-- [simulacao-bancaria](simulacao-bancaria/)
-- [verificacao-cheque-especial](verificacao-cheque-especial/)
-- [verificador-elegibilidade-conta](verificador-elegibilidade-conta)
-- [verificador-numero-conta](verificador-numero-conta)
+- [Iphone](desafios/poo/readme.md)

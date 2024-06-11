@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/verificador-elegibilidade-conta.iml" filepath="$PROJECT_DIR$/verificador-elegibilidade-conta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo.iml" filepath="$PROJECT_DIR$/poo.iml" />
     </modules>
   </component>
 </project>
